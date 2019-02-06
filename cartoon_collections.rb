@@ -8,7 +8,7 @@ def summon_captain_planet(x)# code an argument here
 end
 
 def long_planeteer_calls(x)
-  while x.size => 4
+  while x.size =>4
     return true
 end
 
