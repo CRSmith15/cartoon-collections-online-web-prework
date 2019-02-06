@@ -8,8 +8,8 @@ def summon_captain_planet(x)# code an argument here
 end
 
 def long_planeteer_calls(x)
-  while x.size >4
-    return true
+  until x.size >4
+    return false
 end
 
 def find_the_cheese# code an argument here
