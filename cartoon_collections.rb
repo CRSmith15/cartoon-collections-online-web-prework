@@ -3,7 +3,7 @@ def roll_call_dwarves(x)# code an argument here
 end
 
 def summon_captain_planet(x)# code an argument here
-  x.map {|y| y.upcase + "!" }
+  x.map {|y| y.fisrt.upcase + "!" }
 
 end
 
