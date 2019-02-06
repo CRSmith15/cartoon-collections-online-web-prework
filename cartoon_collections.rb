@@ -18,5 +18,6 @@ end
 def find_the_cheese(x)# code an argument here
 
   cheese_types = ["cheddar", "gouda", "camembert"]
-  x.include?("cheddar")
+  if x.include?("cheddar")
+    return "cheddar"
 end
