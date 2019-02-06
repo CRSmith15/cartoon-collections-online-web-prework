@@ -4,7 +4,7 @@ end
 
 def summon_captain_planet(x)# code an argument here
   x.map {|y| y.upcase + "!" }
-  
+
 end
 
 def long_planeteer_calls# code an argument here
