@@ -7,8 +7,9 @@ def summon_captain_planet(x)# code an argument here
 
 end
 
-def long_planeteer_calls# code an argument here
-  # Your code here
+def long_planeteer_calls(x)
+  while x.size => 4
+    return true
 end
 
 def find_the_cheese# code an argument here
