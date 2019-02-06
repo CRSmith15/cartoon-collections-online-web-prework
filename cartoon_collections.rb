@@ -4,6 +4,7 @@ end
 
 def summon_captain_planet(x)# code an argument here
   x.each {|y| y.upcase}
+  x
 end
 
 def long_planeteer_calls# code an argument here
